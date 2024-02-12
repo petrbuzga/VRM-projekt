@@ -1,16 +1,6 @@
-# VRM (Programming for Robots and Manipulators) : Template for Student Projects
-GitHub repository template for student projects in the university course VRM (Programming for Robots and Manipulators).
+# VRM (Programming for Robots and Manipulators)
+GitHub repository for student project in the university course VRM (Programming for Robots and Manipulators).
 
-## Requirements:
-
-**Software:**
-```bash
-ABB RobotStudio, B&R Automation Studio, etc.
-```
-
-| Software/Package      | Link                                                                                  |
-| --------------------- | ------------------------------------------------------------------------------------- |
-| ABB RobotStudio       | https://new.abb.com/products/robotics/robotstudio/downloads                           |
 
 ## Description - Seminar Paper:
 
@@ -53,8 +43,7 @@ Descriptions and solutions of small projects implemented during the semester.
 
 Link: [Activity](https://github.com/rparak/VRM_GitHub_Template_Student/tree/main/Activity)
 
-## Contact Info:
-Roman.Parak@outlook.com
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
